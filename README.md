@@ -23,9 +23,11 @@ Open your browser:
 http://localhost:3000/report
 ```
 
+[![Watch video]](http://www.youtube.com/watch?v=YlAOJg_WGr4)
+
 Report example:
 
 ![Swagger Coverage Report](.github/cov.png)
 
 
-[![](http://img.youtube.com/vi/YlAOJg_WGr4/0.jpg)](http://www.youtube.com/watch?v=YlAOJg_WGr4 "Video")
+
