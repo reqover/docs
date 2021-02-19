@@ -1,6 +1,6 @@
 ## Reqover
 
-Reqovar is language agnostic tool that gives a picture about coverage of APIs based on Open API (Swagger).
+Reqover is language agnostic tool that gives a picture about coverage of APIs based on Open API (Swagger).
 
 ### Usage example:
 
