@@ -26,3 +26,6 @@ http://localhost:3000/report
 Report example:
 
 ![Swagger Coverage Report](.github/cov.png)
+
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/YlAOJg_WGr4)
