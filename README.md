@@ -28,4 +28,4 @@ Report example:
 ![Swagger Coverage Report](.github/cov.png)
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/YlAOJg_WGr4)
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/YlAOJg_WGr4)
