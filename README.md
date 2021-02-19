@@ -23,7 +23,7 @@ Open your browser:
 http://localhost:3000/report
 ```
 
-[![Watch video]](http://www.youtube.com/watch?v=YlAOJg_WGr4)
+[Watch video](http://www.youtube.com/watch?v=YlAOJg_WGr4)
 
 Report example:
 
