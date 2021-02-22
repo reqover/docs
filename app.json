@@ -4,5 +4,5 @@
   "repository": "https://github.com/reqover/docs",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
   "keywords": ["node", "express", "heroku"],
-  "image": "heroku/buildpacks"
+  "image": "spirogov/swagger-coverage"
 }
