@@ -4,7 +4,7 @@ Reqover is language agnostic tool that gives a picture about coverage of APIs ba
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/reqover/docs/tree/master)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/reqover/docs/tree/main)
 
 ### Usage example:
 
