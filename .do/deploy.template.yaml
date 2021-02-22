@@ -7,9 +7,9 @@ spec:
         repo_clone_url: https://github.com/reqover/docs.git
       name: sample-reqover
       envs:
-    - key: API_SERVICE_URL
+    - key: "API_SERVICE_URL"
       value: "https://petstore.swagger.io"
       type: GENERAL
-    - key: SWAGGER_SPEC_URL
+    - key: "SWAGGER_SPEC_URL"
       value: "https://petstore.swagger.io/v2/swagger.json"
       type: GENERAL
