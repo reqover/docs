@@ -1,1 +1,1 @@
-FROM spirogov/swagger-coverage:latest
+FROM spirogov/reqover:latest
