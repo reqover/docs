@@ -1,5 +1,8 @@
 spec:
-  name: sample-golang
+  name: sample-reqover
   services:
-    - name: reqover
-      dockerfile_path: Dockerfile
+    - dockerfile_path: Dockerfile
+      git:
+        branch: main
+        repo_clone_url: https://github.com/reqover/docs.git
+      name: sample-reqover
