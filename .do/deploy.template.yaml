@@ -1,0 +1,6 @@
+spec:
+  name: sample-golang
+  services:
+    - name: reqover
+      dockerfile_path:
+        - ./Dockerfile
