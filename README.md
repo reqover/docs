@@ -2,6 +2,8 @@
 
 Reqover is language agnostic tool that gives a picture about coverage of APIs based on Open API (Swagger).
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ### Usage example:
 
 For basic exmple you can user https://petstore.swagger.io
@@ -28,6 +30,3 @@ http://localhost:3000/report
 Report example:
 
 ![Swagger Coverage Report](.github/cov.png)
-
-
-
