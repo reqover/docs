@@ -6,7 +6,8 @@
   "keywords": ["node", "express", "heroku"],
   "stack": "container",
   "env": {
-    "API_SERVICE_URL": "https://petstore.swagger.io/",
+    "API_SERVICE_URL": "https://petstore.swagger.io",
     "SWAGGER_SPEC_URL": "https://petstore.swagger.io/v2/swagger.json"
-  }
+  },
+  "success_url": "/report"
 }
