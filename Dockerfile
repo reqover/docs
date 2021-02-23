@@ -1,1 +1,1 @@
-FROM spirogov/reqover:latest
+FROM reqover/reqover:latest
