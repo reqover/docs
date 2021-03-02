@@ -1,6 +1,6 @@
 ## Reqover
 
-Reqover is language agnostic tool that gives a picture about coverage of APIs based on Open API (Swagger).
+Reqover is language agnostic tool that gives a picture about coverage of APIs based on Open API (Swagger) or GraphQL.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -13,6 +13,8 @@ For basic exmple you can user https://petstore.swagger.io
 ```
 docker run -p 3000:3000 reqover/reqover:latest
 ```
+
+Setup API URL, Swagger specification url and save
 
 ```
 curl --location --request GET 'http://localhost:3000/v2/pet/9222968140497128105'
