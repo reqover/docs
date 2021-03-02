@@ -11,10 +11,7 @@ Reqover is language agnostic tool that gives a picture about coverage of APIs ba
 For basic exmple you can user https://petstore.swagger.io
 
 ```
-docker run -p 3000:3000 \
--e API_SERVICE_URL='https://petstore.swagger.io' \
--e SWAGGER_SPEC_URL='https://petstore.swagger.io/v2/swagger.json' \
-reqover/reqover
+docker run -p 3000:3000 reqover/reqover:latest
 ```
 
 ```
