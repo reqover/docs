@@ -21,7 +21,7 @@ curl --location --request GET 'http://localhost:3000/v2/pet/9222968140497128105'
 Open your browser:
 
 ```
-http://localhost:3000/report
+http://localhost:3000/reqover/swagger/report
 ```
 
 [Watch video](http://www.youtube.com/watch?v=YlAOJg_WGr4)
