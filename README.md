@@ -8,7 +8,7 @@ Reqover is language agnostic tool that gives a picture about coverage of APIs ba
 
 ### Usage example:
 
-For basic exmple you can user https://petstore.swagger.io
+For basic example you can use https://petstore.swagger.io
 
 ```
 docker run -p 3000:3000 reqover/reqover:latest
