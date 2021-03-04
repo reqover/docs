@@ -9,5 +9,5 @@
     "API_SERVICE_URL": "https://petstore.swagger.io",
     "SWAGGER_SPEC_URL": "https://petstore.swagger.io/v2/swagger.json"
   },
-  "success_url": "/report"
+  "success_url": "/reqover"
 }
