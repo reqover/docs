@@ -17,7 +17,7 @@ docker run -p 3000:3000 reqover/reqover:latest
 Setup API URL, Swagger specification url and save
 
 ```
-curl --location --request GET 'http://localhost:3000/v2/pet/9222968140497128105'
+curl --location --request GET 'http://localhost:3000/reqover/swagger/v2/pet/9222968140497128105'
 ```
 
 Open your browser:
