@@ -26,7 +26,7 @@ Open your browser:
 http://localhost:3000/reqover/swagger/report
 ```
 
-[Watch video](http://www.youtube.com/watch?v=YlAOJg_WGr4)
+[Watch video](https://www.youtube.com/watch?v=_LaLEpg0fhA)
 
 Report example:
 
