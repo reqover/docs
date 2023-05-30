@@ -43,8 +43,8 @@ npx reqover serve
 
 Examples:
 
-- [Reqover and Spring boot](https://github.com/reqover/reqover-spring-boot)
-- [Reqover and Spring boot](https://github.com/reqover/reqover-fast-api)
+- [Reqover Java and Spring boot](https://github.com/reqover/reqover-spring-boot)
+- [Reqover Python and FastAPI](https://github.com/reqover/reqover-fast-api)
 
 Report example:
 
