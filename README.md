@@ -41,6 +41,30 @@ npx reqover serve
 
 5. Open browser at http://localhost:3000
 
+#### Configuration:
+
+Create reqover.config.json file:
+
+```
+{
+  "includeOptionalParams": true,
+  "ignore": {
+    "status": [405, 404],
+    "/v2/pet": {
+      "POST": {
+        "status": [405]
+      }
+    }
+  }
+}
+```
+
+Use it during report generation adding --config cli option:
+
+```
+npx reqover generate -f swagger.json -d reqover-results --html --config reqover.config.json
+```
+
 Examples:
 
 - [Reqover Java and Spring boot](https://github.com/reqover/reqover-spring-boot)
