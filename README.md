@@ -43,7 +43,10 @@ npx reqover serve
 
 #### Configuration:
 
-Create reqover.config.json file:
+As advanced config, it's possible to use reqover.config.json file:
+
+- includeOptionalParams (default: false) - allows to inlude optonal params in coverage calculation score
+- ignore - allows to ignore specific status code globally or per endpoint
 
 ```
 {
