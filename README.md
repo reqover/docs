@@ -41,6 +41,11 @@ npx reqover serve
 
 5. Open browser at http://localhost:3000
 
+Examples:
+
+- [Reqover and Spring boot](https://github.com/reqover/reqover-spring-boot)
+- [Reqover and Spring boot](https://github.com/reqover/reqover-fast-api)
+
 Report example:
 
 ![Swagger Coverage Report](.github/cov.png)
